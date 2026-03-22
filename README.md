@@ -1,7 +1,9 @@
 # 🛡️ GhoztRecon 
+
 **GhoztRecon** is an advanced URL and endpoint discovery tool built for high-speed reconnaissance in bug bounty programs. It aggregates data from multiple OSINT sources and provides smart filtering for professional hunters.
 
 ## 🚀 Main Features
+
 - **Multi-Source Mining:** Wayback Machine & AlienVault OTX.
 - **Secret Detection:** Built-in regex to find exposed API keys, Firebase, and S3 buckets.
 - **Live Status Validation:** Verify if the discovered endpoints are still active (`--live`).
