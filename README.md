@@ -10,6 +10,6 @@
 
 ## 📥 Quick Installation
 ```bash
-git clone [https://github.com/yourusername/GhoztRecon.git](https://github.com/yourusername/GhoztRecon.git)
+git clone [https://github.com/123tool/GhoztRecon.git]
 cd GhoztRecon
 pip install .
