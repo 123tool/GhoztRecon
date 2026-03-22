@@ -1,1 +1,26 @@
+# Python bytecode (Cache otomatis Python)
+__pycache__/
+*.py[cod]
+*$py.class
 
+# Distribusi / Paket (Dibuat saat menjalankan setup.py)
+build/
+dist/
+/*.egg-info/
+
+# Virtual Environment (Jika kamu pakai venv)
+venv/
+env/
+ENV/
+
+# Log files
+*.log
+
+# File sistem (Khusus Mac atau Windows)
+.DS_Store
+Thumbs.db
+
+# Hasil output scanning (Agar hasil scan pribadi tidak ter-upload)
+*.txt
+*.json
+!requirements.txt
